@@ -1,38 +1,45 @@
-# sample
-  https://github.com/meloard/sample
-  # Description
-  sampel
-  # Table of Contents 
-  * [Usage](#usage)
-  * [Installation](#installation)
-   * [License](#license)
-  * [Sources](#sources)
-  * [Tests](#tests)
-  * [Contact](#contact)
-  # Usage
-  sample
-  # License
-  The mit license. 
-  ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
-        
-  Copyright (c) 2022 meloard.
-        
-  Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated
-  documentation files (the "Software"), to deal in the Software without restriction, including without limitation
-  the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and
-  to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-  The above copyright notice and this permission notice shall be included in all copies or substantial portions
-  of the Software.THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO 
-  THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE 
-  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
-  TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-  # Installation
-  sampel
-  # Sources
-  na
-  # Tests
-  na
-  # Contact
-  Github: meloard 
-  Email: sample.
+# README Generator
   
+  # Description
+  
+  The point of this assignment was to create a readme generator that allows a user to enter details relating to their project, and have that infomation stored in a generated .md file. The point of this assigment was to allow us to work further with node and inquirier. It taught me more on how to navigate with prompts in node to create a document! 
+  
+# Installation
+  
+  N/A
+  
+# Sources
+
+stackoverflow
+W3SChools
+GA Tech tutor
+
+
+# README Generator
+
+## Description
+
+
+The point of this assignment was to create a readme generator that allows a user to enter details relating to their project, and have that infomation stored in a generated .md file. The point of this assigment was to allow us to work further with node and inquirier. It taught me more on how to navigate with prompts in node to create a document! 
+
+## Installation
+
+Node.js
+Inquirer
+
+What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+
+## Usage
+
+![75453753-E272-40A9-BE89-7A3AEAB4B5BB](https://user-images.githubusercontent.com/112831268/201497135-ca625a85-d458-49e0-8028-7a11035dae77.jpeg)
+
+Video Link:
+
+https://drive.google.com/file/d/1uIye6ELV-44j23Ubx4-oit5xJvG_kVaO/view
+
+
+## Credits
+
+StackOverflow
+W3Schools
+GA Tech tutor
