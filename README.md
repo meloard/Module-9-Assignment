@@ -1,19 +1,3 @@
-# README Generator
-  
-  # Description
-  
-  The point of this assignment was to create a readme generator that allows a user to enter details relating to their project, and have that infomation stored in a generated .md file. The point of this assigment was to allow us to work further with node and inquirier. It taught me more on how to navigate with prompts in node to create a document! 
-  
-# Installation
-  
-  N/A
-  
-# Sources
-
-stackoverflow
-W3SChools
-GA Tech tutor
-
 
 # README Generator
 
